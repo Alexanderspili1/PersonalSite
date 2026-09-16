@@ -11,7 +11,7 @@ function IntroContent(){
                 <div className = "profile-text">Alexander Spiliotopoulos</div>
             </div>
             <div className = "subcontainer intro-subcontainer">
-                <div className = "subcontainer-text">18 year old <span className = "important-text">computer science student</span></div>
+                <div className = "subcontainer-text">19 year old <span className = "important-text">computer science student</span></div>
                 <hr />
                 <div className = "subcontainer-text">Based in <span className = "important-text">New York City</span></div>
             </div>
@@ -20,9 +20,16 @@ function IntroContent(){
                     <div className = "skills-item">Python</div>
                     <div className = "skills-item">SQL</div>
                     <div className = "skills-item">Java</div>
-                    <div className = "skills-item">C++</div>
-                    <div className = "skills-item">JavaScript</div>
+                    <div className = "skills-item">C</div>
+                    <div className = "skills-item">React</div>
                 </div>
+            </div>
+            <div className = "subcontainer intro-subcontainer">
+                <div className = "subcontainer-title">Visionist Inc</div>
+                <div className = "subcontainer-text">June 2026 - August 2026</div>
+                <hr />
+                <div className = "subcontainer-text"> <div className = "important-text"> Software Engineering Intern </div> </div>
+                <div className = "subcontainer-text">Worked with a team of 5 to develop a full-stack web application handling AI generated images for internal use, utilizing React.js, FastAPI, Ubuntu, Postgres, PyTorch and more.</div>
             </div>
             <div className = "subcontainer intro-subcontainer">
                 <div className = "subcontainer-title">The ASPI</div>
@@ -42,8 +49,8 @@ function IntroContent(){
                 <div className = "subcontainer-title" id = "nj-congressional-office">NJ's 9th congressional district office</div>
                 <div className = "subcontainer-text">January 2025 - June 2025</div>
                 <hr />
-                <div className = "subcontainer-text"> <div className = "important-text"> Software Engineer Intern </div> </div>
-                <div className = "subcontainer-text">Worked to develop an end to end full-stack web application for internal use, utilizing React.js, Node.js, SQL, Azure, and more.</div>
+                <div className = "subcontainer-text"> <div className = "important-text"> Intern </div> </div>
+                <div className = "subcontainer-text">Handled constituent communications and assisted with various administrative tasks within the office.</div>
             </div>
             <div className = "subcontainer intro-subcontainer">
                 <div className = "skills-list">
