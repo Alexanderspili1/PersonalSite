@@ -54,7 +54,7 @@ function IntroContent(){
             </div>
             <div className = "subcontainer intro-subcontainer">
                 <div className = "skills-list">
-                    <div className = "skills-item"><a href="https://github.com/Alexanders91107" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+                    <div className = "skills-item"><a href="https://github.com/Alexanderspili1" target="_blank" rel="noopener noreferrer">GitHub</a></div>
                     <div className = "skills-item"><a href="https://www.linkedin.com/in/alexander-spiliotopoulos-488929227" target="_blank" rel="noopener noreferrer">LinkedIn</a></div>
                     <div className = "skills-item"><a href={resume} download="resume.pdf">Resume</a></div>
                 </div>
